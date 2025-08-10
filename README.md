@@ -9,7 +9,7 @@ I help startups and businesses grow by turning market research and data insights
 
 **✅Startup Business Consultant & Data Analyst – Spark Bridge**
 - I worked side-by-side with startup founders, shaping business plans, mapping markets, and designing go-to-market strategies that made sense for their growth stage. I also crunched the numbers to calculate risks, big opportunities, and prove financial viability.
-![Image]
+![Image] sparkbridge.jpeg
 **✅Business Analyst – Pars Radin**
 - I built predictive models to understand customer behavior, mixed in weather data to spot surprising patterns, and turned all that into Power BI dashboards that gave the sales team a clear view of what was working.
 ![Image]

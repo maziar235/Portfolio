@@ -1,19 +1,15 @@
 ## About
-I am a business analyst and startup consultant who combines strategic planning with data-driven execution. I help companies shape ideas into business plans, define market positions, and deliver measurable results.
-My work spans market research, GTM strategies, financial modeling, and customer segmentation, supported by predictive models and interactive dashboards for real-time decision-making. With training in Python, SQL, Tableau, Power BI, and machine learning, I use AI-based insights to improve targeting and boost conversion rates.
+I’m a business analyst and consultant with a passion for helping companies grow through a mix of strategic planning and data-driven insight. My experience spans startup strategy, market research, customer journey design, and sales optimization. I’ve worked with early-stage companies to design go-to-market plans, build clear value propositions, and identify untapped market opportunities. On the analytical side, I create predictive models, build dashboards, and extract insights from complex datasets to guide decision-making. I enjoy the challenge of connecting market realities with business strategy — turning data into clear actions that deliver results. My background in data analytics (trained in Paris) combined with hands-on work in business development allows me to bridge strategy and execution seamlessly.
 
-## What I do
-I help startups and businesses grow by turning market research and data insights into clear strategies and actionable plans📈. Furthermore, I work hands-on with tools like Power BI, Tableau, Python, and SQL to uncover opportunities, forecast trends, and guide smart business decisions.
+## Core Expertise
+- Business Strategy – Go-to-market planning, competitive analysis, business model design.
 
-*I’ve played a variety of roles, from digging deep into market data to developing macro business strategies. Each role has taught me something new about turning numbers and insights into real results.*
+- Data Analytics – Power BI, Tableau, Python, SQL, predictive modeling.
 
-**✅Startup Business Consultant & Data Analyst – Spark Bridge**
-- I worked side-by-side with startup founders, shaping business plans, mapping markets, and designing go-to-market strategies that made sense for their growth stage. I also crunched the numbers to calculate risks, big opportunities, and prove financial viability.
+- Startup Growth – Revenue optimization, ROI calculation, market segmentation.
 
-**✅Business Analyst – Pars Radin**
-- I built predictive models to understand customer behavior, mixed in weather data to spot surprising patterns, and turned all that into Power BI dashboards that gave the sales team a clear view of what was working.
+- Project Delivery – Agile frameworks, strategic roadmapping, stakeholder engagement.
 
-**✅Business Trainee (Intern) – Cartridge World**
-- I analyzed customer buying patterns to figure out which products really drove value, using statistical models to help fine-tune sales strategies and reduce risks.
-![Image](Parsradin.jpg) ![Image](sparkbridge.jpeg) ![Image](Cartidge words.png)
-
+risks.
+![Image](Cartidge words.png)
+## MY PORTFOLIO

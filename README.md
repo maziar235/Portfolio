@@ -55,12 +55,14 @@ Power BI · Tableau · Python · SQL · Machine Learning (Logistic Regression, R
 
 - Built Logistic Regression, Random Forest, and Decision Tree models to forecast customer behavior. Combined weather and sales data to create targeted marketing campaigns. Used SHAP to explain predictions and Power BI to visualize strategies.
 
+[Read More](https://drive.google.com/drive/folders/1f5bi3VHzMWusEhDDuezGMl2N1t7RJx6G)
+
 ![Image](wetaher-shap.png) 
 ![Image](wetaher-shap-3.png) 
 
 **Customer Behavior Prediction & Market Basket Analysis – Cartridge World**
 - Used R and statistical methods to uncover high-value product associations in customer purchases. Helped the business optimize sales and reduce risk by focusing on profitable product bundles.
-
+[Read More](https://drive.google.com/drive/folders/16FLjhg4Flb2Uo_R1Wr1Nua1NG9GW2K-l)
 ![Image](1. Market basket Analyst.png) 
 ![Image](3. Market basket Analyst.png) 
 

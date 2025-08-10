@@ -10,8 +10,6 @@ I’m a business analyst and consultant with a passion for helping companies gro
 
 - **Project Delivery** – Agile frameworks, strategic roadmapping, stakeholder engagement.
 
-![Image](Cartidge words.png)
-
 ## Tools I Use
 Power BI · Tableau · Python · SQL · Machine Learning (Logistic Regression, Random Forest) · Market Research Frameworks · Business Model Canvas
 
@@ -57,12 +55,14 @@ Power BI · Tableau · Python · SQL · Machine Learning (Logistic Regression, R
 
 - Built Logistic Regression, Random Forest, and Decision Tree models to forecast customer behavior. Combined weather and sales data to create targeted marketing campaigns. Used SHAP to explain predictions and Power BI to visualize strategies.
 
-![Image](wetaher-shap.png) ![Image](wetaher-shap-3.png) 
+![Image](wetaher-shap.png) 
+![Image](wetaher-shap-3.png) 
 
 **Customer Behavior Prediction & Market Basket Analysis – Cartridge World**
 - Used R and statistical methods to uncover high-value product associations in customer purchases. Helped the business optimize sales and reduce risk by focusing on profitable product bundles.
 
-![Image](1. Market basket Analyst.png) ![Image](3. Market basket Analyst.png) 
+![Image](1. Market basket Analyst.png) 
+![Image](3. Market basket Analyst.png) 
 
 ## Education & Certifications
 

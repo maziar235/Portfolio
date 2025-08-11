@@ -41,7 +41,7 @@ Power BI · Tableau · Python · SQL · Machine Learning (Logistic Regression, R
 ## Professional Projects
 **Startup Business Planning & Market Analysis – Spark Bridge**
 
-- For one of the projects I worked on – GoalMate24 – I was deeply involved from the early brainstorming sessions, contributing over 85% of the core ideas. These included behavioral insights to better understand client needs and help them find more suitable matches. I translated these ideas into a complete business plan, designed a clear go-to-market strategy with risk mitigation, and created the pitch deck and playbook to guide execution. This is just one example of the strategic and creative input I’ve brought to multiple startup projects.
+- For one of the projects I worked on GoalMate24, I was deeply involved from the early brainstorming sessions, contributing over 85% of the core ideas. These included behavioral insights to better understand client needs and help them find more suitable matches. I translated these ideas into a complete business plan, designed a clear go-to-market strategy with risk mitigation, and created the pitch deck and playbook to guide execution. This is just one example of the strategic and creative input I’ve brought to multiple startup projects.
 
 ![Image](Picture1.jpg) 
 

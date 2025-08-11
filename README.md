@@ -41,19 +41,19 @@ Power BI · Tableau · Python · SQL · Machine Learning (Logistic Regression, R
 ## Professional Projects
 **Startup Business Planning & Market Analysis – Spark Bridge**
 
-- Designed business plans, SWOTs, and financial models for startups entering new or resegmented markets. Defined target customers, segmented markets, and built entry strategies with risk mitigation in mind.
+- For one of the projects I worked on – GoalMate24 – I was deeply involved from the early brainstorming sessions, contributing over 85% of the core ideas. These included behavioral insights to better understand client needs and help them find more suitable matches. I translated these ideas into a complete business plan, designed a clear go-to-market strategy with risk mitigation, and created the pitch deck and playbook to guide execution. This is just one example of the strategic and creative input I’ve brought to multiple startup projects.
 
 ![Image](Picture1.jpg) 
 
 **Instagram Market Demand Analysis – Pars Radin**
 
-- Analyzed thousands of Instagram comments to identify the most in-demand academic majors. Applied sentiment analysis to detect market trends in education.
+- One of the projects I worked on involved helping an educational institute understand their main audience through Instagram engagement. They had a post asking followers to comment their academic major, and the goal was to identify which fields of study were most in demand among potential clients—people interested in studying abroad in South America, Canada, or Europe, from diploma to PhD levels. I extracted essential keywords from thousands of comments, cleaned messy data such as misspellings and long explanations, and applied sentiment and trend analysis. The insights guided the client on what type of content-reels, posts, or campaigns-would best attract their target audience.
 
 ![Image](Comments.png) 
 
 **Predictive Analytics for Conversion Optimization – Pars Radin**
 
-- Built Logistic Regression, Random Forest, and Decision Tree models to forecast customer behavior. Combined weather and sales data to create targeted marketing campaigns. Used SHAP to explain predictions and Power BI to visualize strategies.
+- One of the key projects I worked on aimed to identify our main customer segments and improve sales conversion. After my first month, I focused on understanding the sales process, what questions were asked, what data was collected, and which of those data points were actually useful. This led me to suggest adding variables like age, marital status, and other demographic details to enrich the analysis. Using data extracted from the CRM, I built Logistic Regression, Random Forest, and Decision Tree models to highlight the most important factors influencing purchases. I then combined these insights with weather data to reveal how client behavior changed in different conditions. Finally, I used SHAP for explainability and Power BI to create clear, actionable dashboards for the company’s leadership.
 
 [Read More](https://drive.google.com/drive/folders/1f5bi3VHzMWusEhDDuezGMl2N1t7RJx6G)
 

@@ -61,7 +61,8 @@ Power BI · Tableau · Python · SQL · Machine Learning (Logistic Regression, R
 ![Image](wetaher-shap-3.png) 
 
 **Customer Behavior Prediction & Market Basket Analysis – Cartridge World**
-- Used R and statistical methods to uncover high-value product associations in customer purchases. Helped the business optimize sales and reduce risk by focusing on profitable product bundles.
+- During my internship, one of my projects aimed to help the company increase its annual revenue by identifying smarter sales opportunities. I realized the online system lacked a recommendation feature if a customer bought product A, it couldn’t suggest product B with the highest likelihood of being purchased together. To address this, I applied Bayesian theorem in R to analyze transaction data and uncover high-value product associations. This allowed the company to focus on profitable bundles and reduce business risk. This was just one of several data-driven projects I completed during my time there.
+
 [Read More](https://drive.google.com/drive/folders/16FLjhg4Flb2Uo_R1Wr1Nua1NG9GW2K-l)
 ![Image](1. Market basket Analyst.png) 
 ![Image](3. Market basket Analyst.png) 
